@@ -2,8 +2,8 @@
 # standard jekyll configuration
 content_editable: true
 baseurl: /ccb
-url: https://cra-design.github.io
-repository: cra-design/ccb
+url: https://cra-proto.github.io
+repository: cra-proto/ccb
 website: https://www.canada.ca/en.html
 
 # Remote theme, use the latest version
@@ -63,8 +63,8 @@ defaults:
             url: "https://www.canada.ca/en/revenue-agency/corporate/about-canada-revenue-agency-cra.html"
       css:
         - https://use.fontawesome.com/releases/v5.15.4/css/all.css
-        - https://cra-design.github.io/TFSA-cop/en/revenue-agency/services/tax/individuals/topics/tfsa.css        
+        - https://cra-proto.github.io/TFSA-cop/en/revenue-agency/services/tax/individuals/topics/tfsa.css        
         - https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/m%C3%A9li-m%C3%A9lo/2025-12-mille-iles.css
-        - https://cra-design.github.io/core-prototype/source/css/testing-banner.css
+        - https://cra-proto.github.io/core-prototype/source/css/testing-banner.css
       script:
         - https://wet-boew.github.io/themes-dist/GCWeb/GCWeb/m%C3%A9li-m%C3%A9lo/2025-12-mille-iles.js
