@@ -1,6 +1,6 @@
 # CCB COP
 
-*description of the COP*
+Addressing gaps in Canada Child Benefit content to decrease calls as part of the 100 day plan (2025).
 
 **COP timeframe** 2025-09-xx - 2025-12-xx
 
@@ -29,10 +29,10 @@ Ex. [https://cra-proto.github.io/ccb/services/taxes/child-and-family-benefits.ht
 ## Design phase roadmap:
 
 - [x] Initial content inventory and repo setup
-- [ ] Prototype: co-design navigation and content
-- [ ] SME review and accuracy check
-- [ ] Validation usability testing (including accessibility review)
-- [ ] Refine prototype (if required)
+- [x] Prototype: co-design navigation and content
+- [x] SME review and accuracy check
+- [x] Validation usability testing (including accessibility review)
+- [x] Refine prototype (if required)
 - [ ] Spot check usability (if required)
 
-**Updated:**  2025-10-22
+**Updated:**  2026-02-17
